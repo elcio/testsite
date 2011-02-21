@@ -10,6 +10,7 @@
 <body>
 
 <h1>Hello World</h1>
+<h2>This is the sample site</h2>
 
 <p>Lorem Ipsum etc...</p>
 
