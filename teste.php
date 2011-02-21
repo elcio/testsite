@@ -13,6 +13,8 @@
 
 <p>Lorem Ipsum etc...</p>
 
+<footer>What is going on?</footer>
+
 </body>
 
 </html>
